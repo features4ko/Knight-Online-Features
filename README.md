@@ -23,6 +23,8 @@ Aşağıda, detaylı analizleri ve tasarımlarıyla birlikte sunulan özellik ö
 | 💡 **Taslak**  | 001 | [Gelişmiş Kontrat Piyasası](./features/001-advanced-contract-market.md) | "Gri pazarı" bitirecek, iki yönlü, veri odaklı ve güvenli hizmet alım-satım sistemi. |
 | ⏳ Planlanıyor | 002 | [İtibar ve Klan Başarı Sistemi](./features/002-reputation-and-clan-achievements.md) | Oyuncuların ve klanların kontratlardaki başarılarına göre itibar puanı kazanması.      |
 | ⏳ Planlanıyor | 003 | [Gelişmiş Zindan Eşleştirme Sistemi](./features/003-advanced-dungeon-matching.md)   | Belirli hedefler (örn: item düşürme) için otomatik ve güvenli parti kurma sistemi.     |
+| 💡 **Taslak**  | 011 | [Transmog (Basit)](./features/011-transmog-and-wardrobe-lite.md)        | Stat etkilemeden görünüm sabitleme; küçük coin maliyetiyle kalıcı kozmetik.            |
+| 💡 **Taslak**  | 013 | [Tezgah Yoğunluğu ve Stall QoS](./features/013-merchant-density-and-stall-qos.md)    | Tezgah yoğunluğu yönetimi ve görüntüleme kuyruğu (60s görüntüle, 60s blacklist).       |
 
 ---
 
